@@ -1,6 +1,7 @@
  Baba_Jahangir_books
 
-# Best researcher of the Holy Quran. 
+# Best researcher of the Holy Quran.
+Play store link for download the app :https://play.google.com/store/apps/details?id=com.abc.book&pli=1
 <h1>Proved that God  is not only  for any specific religion.</h1>
 <h3>The believe in god is a very personal matter for any individual.</h3>
 <h3>Without meditation no one can become pure.No one can realise his true self.</h3>
