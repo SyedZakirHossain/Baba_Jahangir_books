@@ -13,3 +13,6 @@ You can read his books for free by downloading the app from play store.
 <h4> After reading some of his book I was so impressed. Then I decided to share it with mass people. Thats why I develop an app and publish it to google play store. </h4>
 <h3>You can translate  and republish any or all of his book in any format.</h3>
 All are copyright free. 
+
+I am now trying to make an IOS version of this app.
+For any questions please feel free to contact: inspirayhan@gmail.com 
